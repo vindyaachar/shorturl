@@ -1,0 +1,6 @@
+{
+    "mongoURI" :"mongodb+srv://vindya:tingu@cluster0.adbwb.mongodb.net/test?retryWrites=true&w=majority",
+    "baseURL":"http://localhost:8000/v1"
+    
+
+}
